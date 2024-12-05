@@ -1,6 +1,6 @@
 # Landing Page for Delievery Company Website using HTML5, CSS3, Bootstrap5 and JavaScript 
 
-![Landing Page](preview.jpg)
+![Landing Page](preview.png)
 
 The project involves the creation of an e-learning website using HTML, CSS, Bootstrap 5, and JavaScript. The Landing Page aims to provide a user-friendly and responsive platform for learners to access educational content. 
 
