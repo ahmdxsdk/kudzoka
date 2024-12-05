@@ -1,13 +1,13 @@
-# Landing Page for Delievery Company Website using HTML5, CSS3, Bootstrap5 and JavaScript 
+# Criativo Landing Page - Creative Agency Website using HTML5, CSS3, Bootstrap5 and JavaScript 
 
 ![Landing Page](/images/preview.png)
 
-The project involves the creation of an e-learning website using HTML, CSS, Bootstrap 5, and JavaScript. The Landing Page aims to provide a user-friendly and responsive platform for learners to access educational content. 
+The project involves the creation of an Criativo Landing Page - Creative Agency website using HTML, CSS, Bootstrap 5, and JavaScript. Criativo Landing Page aims to provide a user-friendly and responsive platform for learners to access educational content. 
 
 
 ## Introduction
 
-"Kudzoka" Landing Page is a fast and reliable delivery service designed for a seamless customer experience. With an easy-to-use interface, the platform allows you to quickly place and track orders. We ensure safe, timely deliveries, making your experience hassle-free and dependable every time.
+"Criativo" Landing Page is a fast and reliable delivery service designed for a seamless customer experience. With an easy-to-use interface, the platform allows you to quickly place and track orders. We ensure safe, timely deliveries, making your experience hassle-free and dependable every time.
 
 ## Features
 
@@ -30,7 +30,7 @@ Before you begin, ensure you have the following prerequisites:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kimoamego/kudzoka.git
+   git clone https://github.com/kimoamego/criativo.git
 
 2. Open the project in your preferred text editor.
 3. Launch the `index.html` file in a web browser.
